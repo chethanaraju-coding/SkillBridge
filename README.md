@@ -1,16 +1,22 @@
-# React + Vite
+# 🚀 SkillBridge
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+SkillBridge is a full-stack platform designed to bridge the gap between learning and career opportunities. It provides a seamless interface for users to track skills, manage growth, and explore career paths.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- **Frontend:** React.js (Vite)
+- **Backend:** Python (Flask)
+- **Database:** SQLite / PostgreSQL (Change this if different)
+- **Styling:** CSS3 / Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
+- **Modern Dashboard:** A clean UI for tracking professional development.
+- **Flask API:** A fast and scalable backend to handle user data.
+- **Vite-Powered Frontend:** Lightning-fast development and build times.
+- **Secure Configuration:** Ready for environment variables and secure keys.
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 1. Clone the repository
+```bash
+git clone https://github.com/chethanaraju-coding/SkillBridge.git
+cd SkillBridge
